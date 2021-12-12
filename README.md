@@ -1,8 +1,6 @@
 ### Level up! 🌱
 
-i'm an engineer that works on cloud web applications and architectures ☁️
-
-educational background is in bioengineering 🧬 but i self-studied web-development during university as a hobby which led to my current career. continuously looking to improve in various areas and produce new stuff
+engineer working on cloud web applications and architectures ☁️ | educational background is in bioengineering 🧬 but self-studied web-development which led to current career | continuously looking to improve in various areas and produce new stuff
 
 -----
 
