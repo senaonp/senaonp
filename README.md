@@ -1,12 +1,12 @@
-### level up! 🌱
+### Level up! 🌱
 
 i'm an engineer that works on cloud web applications and architectures ☁️
 
-educational background is in bioengineering 🧬 but i self-studied web-development during university as a hobby, and it resulted in my current career. continuously looking to improve in various areas and produce new stuff
+educational background is in bioengineering 🧬 but i self-studied web-development during university as a hobby which led to my current career. continuously looking to improve in various areas and produce new stuff
 
 -----
 
-🌐 my websites:
+🌐 my websites
 - [fbacarisas.xyz | personal website](https://fbacarisas.xyz)
 - [datetime-timer.com | a tool to countdown/calculate between datetimes, save timers, generate timer URLs](https://datetime-timer.com)
 - [textshift.net | an online cipher tool with encoding and decoding options](https://textshift.net)
@@ -15,7 +15,7 @@ educational background is in bioengineering 🧬 but i self-studied web-developm
 
 -----
 
-💻 personal project(s) i'm working on:
+💻 personal project(s) i'm working on
 - [haihai.link | in-development](https://haihai.link/development_notes.html)
 
 -----
