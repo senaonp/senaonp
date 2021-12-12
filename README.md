@@ -5,17 +5,17 @@ my educational background is in bioengineering 🧬 but i self-studied web-devel
 
 -----
 
-💻 personal project(s) i'm working on:
-- [haihai.link](https://haihai.link/development_notes.html)
-
------
-
 🌐 my websites:
 - [fbacarisas.xyz | personal website](https://fbacarisas.xyz)
 - [datetime-timer.com | a tool to countdown/calculate between datetimes, save timers, generate timer URLs](https://datetime-timer.com)
 - [textshift.net | an online cipher tool with encoding and decoding options](https://textshift.net)
 - [abacus9.com | online abacus applet; features soroban, suanpan, and binary abacuses](https://abacus9.com)
 - [portfolio](https://fbacarisas.xyz/video/portfolio/)
+
+-----
+
+💻 personal project(s) i'm working on:
+- [haihai.link | in-development](https://haihai.link/development_notes.html)
 
 -----
 
