@@ -14,4 +14,4 @@ engineer working on cloud web applications and architectures ☁️ | educationa
 
 -----
 
-for any issues or feedback relating to my websites, feel free to leave a ticket on the corresponding github repository if available or send an email to my developer email address | 📧 email: dev@greentea.moe 🍵
+for any issues or feedback relating to my websites, feel free to add input on the corresponding github repository if available or send an email to my developer email address | 📧 email: dev@greentea.moe 🍵
