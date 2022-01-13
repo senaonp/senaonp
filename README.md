@@ -1,6 +1,4 @@
-### Level up! 🌱
-
-engineer working on cloud web applications and architectures ☁️ | educational background is in bioengineering 🧬 and self-studied web-development | continuously looking to improve in various areas and produce new stuff
+engineer developing cloud architectures ☁️ | educational background is in bioengineering 🧬 and self-studied computer science | currently working on [haihai.link](https://haihai.link/development_notes.html)
 
 -----
 
@@ -9,7 +7,7 @@ engineer working on cloud web applications and architectures ☁️ | educationa
 - [datetime-timer.com | 📅 a tool to countdown/calculate between datetimes, save timers, generate timer URLs](https://datetime-timer.com)
 - [textshift.net | 📋 an online cipher tool with encoding and decoding options](https://textshift.net)
 - [abacus9.com | 🧮 online abacus applet; features soroban, suanpan, and binary abacuses](https://abacus9.com)
-- [haihai.link | 🛠️ in-development](https://haihai.link/development_notes.html)
+- [haihai.link | 🛠️ in-development](http://senaonp-dev.net)
 - [portfolio 💼](https://fbacarisas.xyz/video/portfolio/)
 
 -----
