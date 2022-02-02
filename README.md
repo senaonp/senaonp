@@ -1,4 +1,4 @@
-engineer developing cloud architectures ☁️ | educational background is in bioengineering 🧬 and self-studied programming | currently working on [haihai.link](https://haihai.link/development_notes.html)
+engineer developing cloud architectures ☁️ | educational background is in bioengineering 🧬 and self-studied programming
 
 -----
 
