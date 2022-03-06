@@ -1,4 +1,4 @@
-engineer developing cloud architectures ☁️ | educational background is in bioengineering 🧬 and self-studied programming
+web developer 💻 with an education in bioengineering 🧬
 
 -----
 
